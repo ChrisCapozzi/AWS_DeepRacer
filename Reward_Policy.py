@@ -1,6 +1,6 @@
 def reward_function(params):
     '''
-    Policy for remain towards the center of the track (preventing going off track)
+    Policy for remaining towards the center of the track (preventing going off track)
     '''
     
     # Read input parameters
