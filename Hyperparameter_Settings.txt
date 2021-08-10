@@ -1,0 +1,7 @@
+Gradient Descent Batch Size [32, 64, 128, 256, 512]: 128
+Number of Epochs [3 - 10]: 10
+Learning Rate [1e-8 - 1e-3]: 0.00001
+Entropy [0 - 1]: 0.1
+Discount Factor [0 - 1]: 0.99
+Loss Type [MSE, Huber]: Huber
+Number of Experience Episodes Between Each Policy-Updating Iteration [5 - 100]: 40

@@ -1,3 +1,5 @@
+# Reinforcement Learning Algorithm: PPO
+
 def reward_function(params):
     '''
     Policy for remaining towards the center of the track (preventing going off track)
