@@ -1,0 +1,2 @@
+Speed: {0.33, 0.67, 1} m/s
+Steering Angle: {-30, 0, 30} degrees
